@@ -4,7 +4,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 from textblob import TextBlob
 from colorama import init, Fore
 import time
-import sys
 
 # Initialize colorama
 init(autoreset=True)
@@ -145,3 +144,4 @@ def main():
 if __name__ == "__main__":
     main()
 
+# https://github.com/skillacademyonwheels/AI_Movie_recommendation_system.git
